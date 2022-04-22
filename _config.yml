@@ -7,9 +7,9 @@
 
 # Site Settings
 encoding                 : utf-8
-url                      : "https://liuning0820.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mj.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-email                    : liuning0820@outlook.com
+email                    : 
 theme                    : jekyll-theme-slate
 search                   : true # true, false (default), enables basic site search powered by Lunr
 repository               : liuning0820/liuning0820.github.io
@@ -40,7 +40,7 @@ theme: jekyll-theme-slate
 
 # Comment 这是disqus的评论系统
 comment:
-    disqus: liuning0820
+    disqus: 
 
 
 # Collections
